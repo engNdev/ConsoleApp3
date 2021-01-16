@@ -9,6 +9,7 @@ namespace ConsoleApp3
             Console.WriteLine("Hello World!");
             Console.WriteLine("maraba");
             Console.WriteLine("deneme");
+            Console.WriteLine("deneme2");
         }
     }
 }
